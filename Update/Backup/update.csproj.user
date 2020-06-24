@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"|processToEnd|TeboCam|downloadFile|TeboCam.Zip|URL|http://teboweb.com/Downloads/|destinationFolder|C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2005\Projects\update\update\bin\Debug\appSimulation\|postProcess|C:\Documents and Settings\HP_Administrator\My Documents\Visual Studio 2005\Projects\TeboCam\TeboCam\bin\Release\TeboCam.exe|command|Alert Seconds 75"</StartArguments>
+  </PropertyGroup>
+</Project>

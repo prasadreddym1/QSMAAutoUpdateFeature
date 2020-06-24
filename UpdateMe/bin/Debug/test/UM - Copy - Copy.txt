@@ -1,0 +1,2 @@
+app|version|release date|url|file
+updateme|1.002|08/10/2011|http://dl.dropbox.com/u/38091577/|um.zip
